@@ -3,4 +3,8 @@
 ### Code Climate:
 [![Maintainability](https://api.codeclimate.com/v1/badges/7545d94e67fb83fc6605/maintainability)](https://codeclimate.com/github/AllaAverina/frontend-project-44/maintainability)
 
+### Game «Is number even»:
 [![asciicast](https://asciinema.org/a/LmrrR7zAW444IdnZTb6zuHV4A.svg)](https://asciinema.org/a/LmrrR7zAW444IdnZTb6zuHV4A)
+
+### Game «Calculator»:
+[![asciicast](https://asciinema.org/a/tDm902egOQWW43uD5BHAxf8q1.svg)](https://asciinema.org/a/tDm902egOQWW43uD5BHAxf8q1)
