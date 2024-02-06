@@ -8,3 +8,6 @@
 
 ### Game «Calculator»:
 [![asciicast](https://asciinema.org/a/tDm902egOQWW43uD5BHAxf8q1.svg)](https://asciinema.org/a/tDm902egOQWW43uD5BHAxf8q1)
+
+### Game «The greatest common divisor (GCD)»:
+[![asciicast](https://asciinema.org/a/1zLzomU5QNEo0Ajl9kQmfyUGJ.svg)](https://asciinema.org/a/1zLzomU5QNEo0Ajl9kQmfyUGJ)
