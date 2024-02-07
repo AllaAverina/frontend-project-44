@@ -1,4 +1,4 @@
-import { getRandomInt } from '../functions/random.js';
+import { getRandomInt as getRandom } from '../functions/random.js';
 import game from '../functions/game.js';
 
 const gcd = (left, right) => {
@@ -11,9 +11,9 @@ const gcd = (left, right) => {
 export default () => {
   console.log('Find the greatest common divisor of given numbers.');
 
-  const getQuestion = () => [getRandomInt(1, 100), getRandomInt(1, 100)];
-  const getTextQuestion = ([left, right]) => `${left} ${right}`;
-  const getExpected = ([left, right]) => gcd(+left, +right);
+  const getQuestion = () => [getRandom(1, 100), getRandom(1, 100)];
+  const getTextQuestion = (question) => question.join(' ');
+  const getAnswer = ([left, right]) => gcd(+left, +right);
 
-  return game(getQuestion, getExpected, getTextQuestion);
+  return game(getQuestion, getAnswer, getTextQuestion);
 };
