@@ -3,7 +3,7 @@
 ### Code Climate:
 [![Maintainability](https://api.codeclimate.com/v1/badges/7545d94e67fb83fc6605/maintainability)](https://codeclimate.com/github/AllaAverina/frontend-project-44/maintainability)
 
-### Game «Is number even»:
+### Game «Parity check»:
 [![asciicast](https://asciinema.org/a/LmrrR7zAW444IdnZTb6zuHV4A.svg)](https://asciinema.org/a/LmrrR7zAW444IdnZTb6zuHV4A)
 
 ### Game «Calculator»:
@@ -14,3 +14,6 @@
 
 ### Game «Arithmetic progression»:
 [![asciicast](https://asciinema.org/a/qcoqQbqLUVbfodqL20vdWtf9l.svg)](https://asciinema.org/a/qcoqQbqLUVbfodqL20vdWtf9l)
+
+### Game «Is it a prime number?»:
+[![asciicast](https://asciinema.org/a/QwROHad1Lf8rrRqbNiVRR4z47.svg)](https://asciinema.org/a/QwROHad1Lf8rrRqbNiVRR4z47)
