@@ -11,3 +11,6 @@
 
 ### Game «The greatest common divisor (GCD)»:
 [![asciicast](https://asciinema.org/a/1zLzomU5QNEo0Ajl9kQmfyUGJ.svg)](https://asciinema.org/a/1zLzomU5QNEo0Ajl9kQmfyUGJ)
+
+### Game «Arithmetic progression»:
+[![asciicast](https://asciinema.org/a/qcoqQbqLUVbfodqL20vdWtf9l.svg)](https://asciinema.org/a/qcoqQbqLUVbfodqL20vdWtf9l)
